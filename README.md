@@ -12,7 +12,7 @@
 
 Скриншоты для решения задачи (важно - это не реальный сервис!):
 
-<img src="file:///F:\QA инженер\JAVA\Homework\Screenshot_2.jpg" />
+![](https://drive.google.com/uc?export=view&id=10Rg0er0fQLe0zWew3Qme4Z8nEzH-mR9U)
 
 
 **Результат**
